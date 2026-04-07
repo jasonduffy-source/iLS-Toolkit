@@ -4,27 +4,15 @@
         "date": "2026-04-01 13:20:49",
         "title": "Ne Te",
         "message": "Message :P",
+        "service_area": "National
         "utime": "1775087650"
     },
     {
         "id": "41",
-        "date": "2026-04-01 13:20:49",
-        "title": "Next",
-        "message": "Message :)P",
+        "date": "2026-04-07 13:20:49",
+        "title": "Not today!",
+        "message": ":P",
+        "service_area": "Central
         "utime": "1775087650"
-    },
-    {
-        "id": "44",
-        "date": "2026-04-01 13:20:49",
-        "title": "Next Test",
-        "message": "Message",
-        "utime": "1775097651"
-    },
-    {
-        "id": "45",
-        "date": "2026-04-01 13:20:49",
-        "title": "Next Test",
-        "message": "Message",
-        "utime": "1775097653"
     }
 ]
